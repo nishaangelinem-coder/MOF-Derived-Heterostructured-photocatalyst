@@ -1,12 +1,16 @@
 # Green-Synthesized S-Scheme MOF-Derived Heterostructured Photocatalyst for Visible-Light-Driven Hydrogen Evolution and CO₂ Reduction
 
-Overview
+
+
+## Overview
 
 This repository contains the complete experimental characterization data supporting our work on a green-synthesized MOF-derived S-scheme heterojunction photocatalyst for dual solar fuel production — visible-light-driven hydrogen evolution reaction (HER) and photocatalytic CO₂ reduction. The optimal S-scheme heterostructure achieved an H₂ evolution rate of **2340 ± 45 μmol g⁻¹ h⁻¹** with an apparent quantum yield of **8.2% at 420 nm**, and a CO₂-to-CO reduction rate of **58.7 ± 2.1 μmol g⁻¹ h⁻¹**, retaining over 95% photocatalytic activity after five consecutive cycles. All characterization data were acquired from laboratory-grade analytical instruments and are provided in both raw and processed formats.
 
-Repository Structure
+---
 
+## Repository Structure
 
+```
 MOF-Derived-Heterostructured-photocatalyst/
 │
 ├── README.md
@@ -39,7 +43,7 @@ MOF-Derived-Heterostructured-photocatalyst/
     └── Table8_stability.csv
 ```
 
-
+---
 
 ## Experimental Instruments and Measurement Conditions
 
@@ -235,29 +239,14 @@ The work function difference (ΔΦ = 0.5 eV) drives the internal electric field 
 
 ## Data Availability
 
-All data generated and analysed during the current study are included in this published article and its supplementary information files. The complete datasets are publicly available at:
+All data taken and analysed during the current study are included in this published article and its supplementary information files. The complete datasets are publicly available at:
 
 **https://github.com/nishaangelinem-coder/MOF-Derived-Heterostructured-photocatalyst**
 
 ---
 
-## Citation
 
-If you use this data in your research, please cite:
 
-```bibtex
-@article{angeline2025mof_sscheme,
-  title     = {Green-Synthesized S-Scheme MOF-Derived Heterostructured Photocatalyst 
-               for Visible-Light-Driven Hydrogen Evolution and CO₂ Reduction},
-  author    = {Angeline M, Nisha and Manikandan, S K},
-  journal   = {},
-  year      = {2025},
-  doi       = {},
-  url       = {https://github.com/nishaangelinem-coder/MOF-Derived-Heterostructured-photocatalyst}
-}
-```
-
----
 
 
 
