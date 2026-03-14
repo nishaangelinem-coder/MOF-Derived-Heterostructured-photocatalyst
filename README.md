@@ -1,6 +1,5 @@
 # Green-Synthesized S-Scheme MOF-Derived Heterostructured Photocatalyst for Visible-Light-Driven Hydrogen Evolution and CO₂ Reduction
 
-
 Overview
 
 This repository contains the complete experimental characterization data supporting our work on a green-synthesized MOF-derived S-scheme heterojunction photocatalyst for dual solar fuel production — visible-light-driven hydrogen evolution reaction (HER) and photocatalytic CO₂ reduction. The optimal S-scheme heterostructure achieved an H₂ evolution rate of **2340 ± 45 μmol g⁻¹ h⁻¹** with an apparent quantum yield of **8.2% at 420 nm**, and a CO₂-to-CO reduction rate of **58.7 ± 2.1 μmol g⁻¹ h⁻¹**, retaining over 95% photocatalytic activity after five consecutive cycles. All characterization data were acquired from laboratory-grade analytical instruments and are provided in both raw and processed formats.
