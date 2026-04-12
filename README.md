@@ -7,12 +7,13 @@ This repository contains the complete experimental dataset, characterization fig
 
 ## 🌟 Research Highlights
 
-- **Green Synthesis:** Eco-friendly water–ethanol solvothermal route (E-factor: 3.2) for Zn/Co bimetallic ZIF precursor, followed by controlled thermal conversion at 600 °C under **Nitrogen (N₂)**.
-- **Superior H₂ Evolution:** Optimized heterostructure achieved a rate of **2340 ± 45 µmol g⁻¹ h⁻¹**.
-- **Apparent Quantum Yield (AQY):** Reached a maximum value of **8.2% at 450 nm**.
-- **Effective CO₂ Reduction:** Demonstrated a CO₂-to-CO conversion rate of **58.7 ± 2.1 µmol g⁻¹ h⁻¹**.
-- **S-Scheme Mechanism:** Validated through Mott–Schottky analysis, PL quenching, EIS, and ESR measurements, showing efficient spatial charge separation.
-- **Stability:** Maintained **95.5% activity retention** over five cycles of continuous operation.
+Green Synthesis: Water–ethanol solvothermal synthesis (E-factor: 3.2) followed by thermal conversion at 600 °C under nitrogen (N₂).
+High H₂ Evolution: 2340 ± 45 µmol g⁻¹ h⁻¹ under visible light irradiation.
+Apparent Quantum Yield (AQY): 8.2% at 450 nm.
+CO₂ Reduction Performance: CO production rate of 58.7 ± 2.1 µmol g⁻¹ h⁻¹.
+CO Selectivity: ~83–84% (calculated from CO/(CO+CH₄)).
+S-Scheme Charge Transfer: Supported by PL quenching, EIS, Mott–Schottky, and ESR analyses.
+Stability: 95.5% activity retention after five cycles.
 
 ## 📁 Repository Structure
 
