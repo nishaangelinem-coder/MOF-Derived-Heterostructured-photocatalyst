@@ -1,5 +1,5 @@
-Sample,Peak_2theta,FWHM_deg,Crystallite_nm
-Pristine MOF,12.72,0.2,40.0
-Component A (α-Fe₂O₃),33.15,0.2,41.4
-Component B (NiFe₂O₄),35.44,0.22,37.9
-S-scheme Heterostructure,35.44,0.32,26.1
+﻿Sample,Peak_2theta,FWHM_deg,Crystallite_nm
+Bimetallic Zn/Co-ZIF,12.72,0.2,40.0
+ZnO,33.15,0.2,41.4
+Co3O4/C,35.44,0.22,37.9
+ZnO–Co3O4/C,35.44,0.32,26.1
