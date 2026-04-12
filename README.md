@@ -52,12 +52,5 @@ The data files provided are standardized for direct use in analytical software (
 - All samples are labeled consistently: **ZnO**, **Co3O4/C**, and **ZnO–Co3O4/C**.
 - Raw data includes baseline corrections where applicable.
 
-## 📝 Citation
-If you use this dataset or the figures in your research, please cite the original work:
 
-> **Green-Synthesized ZnO–Co₃O₄/C S-Scheme Heterojunction Photocatalyst Derived from Bimetallic ZIF Precursor for Visible-Light-Driven Hydrogen Evolution and CO₂ Reduction.** Nisha Angeline M, Manikandan S K. (2026).
-
----
-**Author:** nishaangelinem-coder  
-**Contact:** [GitHub Profile](https://github.com/nishaangelinem-coder)  
 **Keywords:** S-scheme photocatalysis, MOF-derived, CO2 Reduction, Hydrogen Evolution, Green Synthesis.
